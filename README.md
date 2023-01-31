@@ -1,7 +1,7 @@
 # HelloWorldGoServer
 GO + Docker + unit tests
 
-
+Some sample text
 ## Running the app locally
 
 ```bash
