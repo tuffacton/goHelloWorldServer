@@ -7,6 +7,7 @@ Some sample text
 ```bash
 $ go build
 $ ./go-sample-app
+askaskas
 2019/02/03 11:38:11 Starting Server
 ```
 
