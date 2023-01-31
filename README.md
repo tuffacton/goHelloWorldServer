@@ -1,5 +1,4 @@
 # HelloWorldGoServer
-iasdjfiajsdfij
 GO + Docker + unit tests
 
 Some sample text
